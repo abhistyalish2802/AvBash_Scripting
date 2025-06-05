@@ -1,0 +1,17 @@
+BSA Self Assessment
+
+Author: Your Name
+Student ID: 1000118874
+Date: YYYY-MM-DD
+
+Summary:
+- Completed user management script (task1)
+- Completed backup script (task2)
+- Implemented shared folder management
+- Logging included for user management script
+- Tested scripts inside Docker container
+
+Reflection:
+- Challenges faced: Handling symlinks, user password setting
+- Skills learned: Bash scripting, Docker user management, logging
+- Future improvements: More error handling and validation
